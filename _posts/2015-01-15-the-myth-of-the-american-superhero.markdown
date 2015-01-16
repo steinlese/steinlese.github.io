@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "The Myth of the American Superhero"
+date:   2015-01-15 19:43:58
+categories: review
+---
+I liked this book[^1].
+
+[^1]: Amazon: [The Myth of the American Superhero](http://www.amazon.com/Myth-American-Superhero-Shelton-Lawrence-ebook/dp/B004GGT6V8/ref=tmm_kin_swatch_0)

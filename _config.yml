@@ -2,7 +2,7 @@
 title: steinlese.com/
 email: stein.gerold@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-    A tag line.
+  Writings, ramblings, random thoughts.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://steinlese.com" # the base hostname & protocol for your site
 twitter_username: geroldstein

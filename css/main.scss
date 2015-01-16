@@ -33,8 +33,12 @@ $on-laptop:        800px;
     font-family: 'EB Garamond', Garamond, Georgia, serif;
 }
 
+.post-category {
+    text-transform: uppercase;
+    color: lighten($text-color, 50%);
+}
+
 .site-header {
-//    background-color: lighten($brand-color, 15%);
     background-color: #fff;
 }
 
