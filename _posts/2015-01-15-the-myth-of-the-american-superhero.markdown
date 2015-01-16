@@ -1,9 +1,10 @@
 ---
+title: The Myth of the American Superhero
+date: 2015-01-15 19:43:58
 layout: post
-title:  "The Myth of the American Superhero"
-date:   2015-01-15 19:43:58
 categories: review
 ---
+
 I liked this book[^1].
 
 One more paragraph.
