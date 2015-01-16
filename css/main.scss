@@ -45,6 +45,10 @@ article {
     background-color: #fff;
 }
 
+a.site-category {
+    color: #999 !important;
+}
+
 // Using media queries with like this:
 // @include media-query($on-palm) {
 //     .wrapper {

@@ -2,7 +2,7 @@
 title: The Myth of the American Superhero
 date: 2015-01-15 19:43:58
 layout: post
-categories: review
+category: review
 ---
 
 I liked this book[^1].
