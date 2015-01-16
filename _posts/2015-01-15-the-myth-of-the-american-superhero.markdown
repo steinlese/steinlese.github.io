@@ -6,4 +6,6 @@ categories: review
 ---
 I liked this book[^1].
 
+One more paragraph.
+
 [^1]: Amazon: [The Myth of the American Superhero](http://www.amazon.com/Myth-American-Superhero-Shelton-Lawrence-ebook/dp/B004GGT6V8/ref=tmm_kin_swatch_0)
